@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					20DC12691F99233500F76695 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = N7TTKWGN6A;
 						ProvisioningStyle = Automatic;
 					};
 					20DC127D1F99233500F76695 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N7TTKWGN6A;
 				INFOPLIST_FILE = "Github-Test-Coding-Club/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "evanvonoehsen.Github-Test-Coding-Club";
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N7TTKWGN6A;
 				INFOPLIST_FILE = "Github-Test-Coding-Club/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "evanvonoehsen.Github-Test-Coding-Club";
